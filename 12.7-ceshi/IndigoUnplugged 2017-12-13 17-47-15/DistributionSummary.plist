@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IndigoUnplugged.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<true/>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>9A811F6382CCB295E0D1F4F762BF08DE2735E04B</string>
+				<key>dateExpires</key>
+				<string>2018/11/1</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<true/>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>9A811F6382CCB295E0D1F4F762BF08DE2735E04B</string>
+						<key>dateExpires</key>
+						<string>2018/11/1</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>FMDB.framework</string>
+					<key>symbols</key>
+					<true/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>SQH5JS2X8A</string>
+						<key>name</key>
+						<string>Health One Alliance LLC</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<true/>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>9A811F6382CCB295E0D1F4F762BF08DE2735E04B</string>
+						<key>dateExpires</key>
+						<string>2018/11/1</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>LKDBHelper.framework</string>
+					<key>symbols</key>
+					<true/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>SQH5JS2X8A</string>
+						<key>name</key>
+						<string>Health One Alliance LLC</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>SQH5JS2X8A.com.Indigo.IndigoUnpluggedPro</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>SQH5JS2X8A</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>SQH5JS2X8A.com.Indigo.IndigoUnpluggedPro</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>IndigoUnplugged.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>5df254d8-7a84-4679-9f4b-382cc18be8ca</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.Indigo.IndigoUnpluggedPro</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>SQH5JS2X8A</string>
+				<key>name</key>
+				<string>Health One Alliance LLC</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
