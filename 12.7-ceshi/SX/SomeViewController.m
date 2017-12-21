@@ -61,8 +61,6 @@
         float width = 60;
         float height = 40;
         
-//        NSInteger row = i % 4;
-        
         CGFloat jianju = (kScreenWidth - (width * 4)) / (4 + 1);
         UIButton *btn = [UIButton buttonWithType:UIButtonTypeCustom];
         btn.frame = CGRectMake(jianju + (width + jianju) * i , 20, width, height);
